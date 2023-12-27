@@ -1,0 +1,15 @@
+1.启动MongoDB服务
+
+(1)在浏览器中搜索MongoDB，登录后找到NetWork Access选项
+
+(2)点击Add Current IP，再点击绿色链接跳转新一页即可启动MongoDB服务
+
+2.启动Vue项目
+
+(1)将“资金管理系统”文件夹拖动到VSCode的工作区
+
+(2)找到node-vue-ele-app文件夹，右键“在集成终端中打开”
+
+(3)在弹出的控制台输入npm run dev，按回车启动项目
+
+(4)项目启动完后，点开http://localhost:8080链接即可访问项目
